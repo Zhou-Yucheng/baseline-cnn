@@ -9,6 +9,7 @@ vis/
 runs/
 models/
 output*/
+output
 logs/
 
 run.sh
@@ -16,6 +17,7 @@ run*.sh
 *.xlsx
 *.pt
 *.pth
+*.pkl
 *.lnk
 
 
